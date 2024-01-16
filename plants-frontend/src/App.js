@@ -36,10 +36,10 @@ const ImageUploader = () => {
   };
 
   return (
-    <div className="max-w-md mx-auto mt-8 p-6 bg-white shadow-md rounded-md">
+    <div className="max-w-md mx-auto mt-8 p-6 bg-white shadow-md rounded-md relative">
       <label className="block text-lg font-semibold mb-2 text-gray-700">Upload an Image</label>
-      
-      <div className="flex items-center justify-center mb-4">
+
+      <div className="relative border-dotted border-2 border-gray-500 p-12 mx-auto text-center h-80">
         <input
           type="file"
           accept="image/*"
@@ -49,27 +49,42 @@ const ImageUploader = () => {
         />
         <label
           htmlFor="image-upload"
-          className="cursor-pointer bg-blue-500 text-white py-2 px-4 rounded-md transition duration-300 hover:bg-blue-600"
-        >
-          Choose Image
+          className="absolute inset-0 flex flex-col items-center justify-center cursor-pointer"
+          >
+          {!selectedImage && (
+            <>
+          <span className="text-lg font-semibold text-gray-700 mb-2">Drag and Drop</span>
+          <span className="text-gray-500">or</span>
+          <span className="text-blue-500 hover:underline">Choose Image</span>
+          </>
+          )}
         </label>
+        {selectedImage && (
+          <img
+            src={URL.createObjectURL(selectedImage)}
+            alt="Preview"
+            className="mt-4 rounded-md mx-auto z-10"
+            style={{ maxWidth: '100%', maxHeight: '100%' }}
+          />
+        )}
       </div>
-      {selectedImage && (
-        <img src={URL.createObjectURL(selectedImage)} alt="Preview" className="mb-4 rounded-md" style={{ maxWidth: '100%' }} />
-      )}
+
       <button
         onClick={handleUpload}
-        className="bg-green-500 text-white py-2 px-4 rounded-md transition duration-300 hover:bg-green-600"
+        className="mt-4 bg-gray-500 text-white py-2 px-4 rounded-md transition duration-300 hover:bg-gray-600"
       >
         Upload Image
       </button>
+      <p className="mt-4 text-lg font-semibold text-gray-800">
+      Predicted Flower:
+      </p>
 
       {loading ? (
         <div className="mt-4 bg-gray-300 rounded-md p-4 animate-pulse"></div>
       ) : (
         predictedLabel && (
           <p className="mt-4 text-lg font-semibold text-gray-800">
-            Predicted Flower: {predictedLabel.name}
+             {predictedLabel.name}
           </p>
         )
       )}

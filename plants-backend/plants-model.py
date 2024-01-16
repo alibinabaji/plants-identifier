@@ -16,8 +16,7 @@ def classify_image():
     try:
         image = Image.open(request.files['image'])
         result = detector(images=image, candidate_labels= class_labels)
-        
-        # Extract the predicted label
+
         predicted_label = result[0]['label'] if result and result[0] and 'label' in result[0] else "Unknown"
         print(result)
         predicted_entry = class_labels_dict.get(predicted_label, {"name": "Unknown"})

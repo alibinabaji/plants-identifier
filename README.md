@@ -15,11 +15,11 @@ plants-backend
       On Windows: venv\Scripts\activate
       On macOS/Linux: source venv/bin/activate
     4- Install required Python packages:
-    5- pip install flask
-    6- pip install transformers
-    7- pip install Pillow
-    8- pip install flask-cors
-    9- pip install torch
+      1- pip install flask
+      2- pip install transformers
+      3- pip install Pillow
+      4- pip install flask-cors
+      5- pip install torch
 
 
 

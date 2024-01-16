@@ -1,0 +1,653 @@
+{
+  "Abutilon":{
+    "name": "ابوتیلون"
+  },
+  "Acacia":{
+    "name": "آکاسیا"
+  },
+  "Acalypha":{
+    "name": "آکالیفا"
+  },
+  "Achimenes":{
+    "name": "آکیمن"
+  },
+  "Aeschynanthus":{
+    "name": "اسکینانتوس"
+  },
+  "Acorus":{
+    "name": "آکوروس (گندمی)"
+  },
+  "Agapanthus":{
+    "name": "آگاپانتوس"
+  },
+  "Astilbe":{
+    "name": "آستیلب"
+  },
+  "Azalea":{
+    "name": "آزاله (آزالیا)"
+  },
+  "Campanula":{
+    "name": "استکانی"
+  },
+  "Amaranthus":{
+    "name": "آمارانتوس"
+  },
+  "Aphelandra":{
+    "name": "آفلاندرا"
+  },
+  "Araucaria":{
+    "name": "آروکاریا (کاج مطبق)"
+  },
+  "Ardisia":{
+    "name": "آردیسیا"
+  },
+  "Aralia":{
+    "name": "آرالیا (دیزیگوتکا)"
+  },
+  "Dizygotheca":{
+    "name": "آرالیا (دیزیگوتکا)"
+  },
+  "Episcia":{
+    "name": "اپیسکیا"
+  },
+  "Erica":{
+    "name": "اریکا"
+  },
+  "Eucalyptus":{
+    "name": "اوکالیپتوس"
+  },
+  "Euonymus":{
+    "name": "اونیموس"
+  },
+  "Exacum":{
+    "name": "اکساکوم"
+  },
+  "Impatiens":{
+    "name": "(گل حنا)ایمپاتینس"
+  },
+  "Iresine":{
+    "name": "ایرسین"
+  },
+  "Ixora":{
+    "name": "ایکسورا"
+  },
+  "Ophiopogon":{
+    "name": "اوفیوپوگون"
+  },
+  "Oplismenus":{
+    "name": "اوپلیسمنوس"
+  },
+  "Osmanthus":{
+    "name": "اسمانتوس"
+  },
+  "Punica":{
+    "name": "انار"
+  },
+  "Spathiphyllum":{
+    "name": "اسپاتیفیلوم"
+  },
+  "Stapelia":{
+    "name": "استاپلیا"
+  },
+  "Stenotaphrum":{
+    "name": "استنوتافروم"
+  },
+  "Stephanotis":{
+    "name": "استفانوتیس"
+  },
+  "Strelitzia":{
+    "name": "استرلیتزیا (مرغ بهشتی)"
+  },
+  "Streptocarpus":{
+    "name": "استرپتوکارپوس"
+  },
+  "Streptosolen":{
+    "name": "استرپتوسولن"
+  },
+  "Strobilanthes":{
+    "name": "استروبیلانتس"
+  },
+  "Begonia":{
+    "name": "بگونیا"
+  },
+  "Beaucarnea":{
+    "name": "بوکارنئا"
+  },
+  "Beloprone":{
+    "name": "بلوپرون"
+  },
+  "Bertolonia":{
+    "name": "برتولونیا"
+  },
+  "Bougainvillea":{
+    "name": "بوگنویلا (گل کاغذی)"
+  },
+  "Bonsai":{
+    "name": "بنسای"
+  },
+  "Bowiea":{
+    "name": "بوویا"
+  },
+  "Breynia":{
+    "name": "برینیا"
+  },
+  "Browallia":{
+    "name": "برووالیا"
+  },
+  "Brunfelsia":{
+    "name": "برونفلزیا"
+  },
+  "Poinsettia":{
+    "name": "بنت قنسول"
+  },
+  "Saintpaulia":{
+    "name": "بنفشه افرقایی"
+  },
+  "Citrus":{
+    "name": "پرتقال زینتی"
+  },
+  "Hedera":{
+    "name": "پاپیتال (عشقه، داردوست)"
+  },
+  "Pachystachys":{
+    "name": "پاکیس تاکیس"
+  },
+  "Pandanus":{
+    "name": "پاندانوس"
+  },
+  "Pellionia":{
+    "name": "پلیونیا"
+  },
+  "Pentas":{
+    "name": "پنتاس"
+  },
+  "Peperomia":{
+    "name": "پیرومیا"
+  },
+  "Pilea":{
+    "name": "پیله آ"
+  },
+  "Piper":{
+    "name": "پایپر (فلفل زینتی)"
+  },
+  "Pisonia":{
+    "name": "پیسونیا"
+  },
+  "Pittosporum":{
+    "name": "پیتوسپوروم"
+  },
+  "Plectranthus":{
+    "name": "پلکترانتوس"
+  },
+  "polyscias":{
+    "name": "پولیس کیاس"
+  },
+  "Plumbago":{
+    "name": "پلومباگو"
+  },
+  "Plumeria":{
+    "name": "پلومریا"
+  },
+  "Podocarpus":{
+    "name": "پودوکارپوس"
+  },
+  "Primula":{
+    "name": "پامچال"
+  },
+  "Pseuderanthemum":{
+    "name": "پسودرانتموم"
+  },
+  "Scindapsus":{
+    "name": "پوتوس"
+  },
+  "pothos":{
+    "name": "پوتوس"
+  },
+  "Senecio":{
+    "name": "پیرگیاه (زلف پیر)"
+  },
+  "Solanum":{
+    "name": "تاجریزی زینتی"
+  },
+  "Jacaranda":{
+    "name": "جاکاراندا"
+  },
+  "Jacobinia":{
+    "name": "جاکوبینیا"
+  },
+  "Coleus":{
+    "name": "حسن یوسف"
+  },
+  "Clivia":{
+    "name": "خورشیدی"
+  },
+  "Chrysanthemum":{
+    "name": "داوودی"
+  },
+  "Datura":{
+    "name": "داتورا"
+  },
+  "Diffenbachia":{
+    "name": "دیفن باخیا"
+  },
+  "Dipladenia":{
+    "name": "دیپلادنیا"
+  },
+  "Duchesnea":{
+    "name": "دوشسنیا"
+  },
+  "Dracaena":{
+    "name": "دراسنا"
+  },
+  "Dracaena Marginata":{
+    "name": "دراسنا مارگیناتا (دراسنا پرچمی)"
+  },
+  "Radermachera":{
+    "name": "رادرماشرا"
+  },
+  "Rechsteineria":{
+    "name": "رکشتاینریا"
+  },
+  "Rhoeo":{
+    "name": "روئه"
+  },
+   "Rpchea":{
+    "name": "روشه آ"
+  },
+  "Ruellia":{
+    "name": "رولیا"
+  },
+  "Gerbera":{
+    "name": "ژربرا (گربرا)"
+  },
+   "Chlorophytum":{
+    "name": "سجافی (گندمی)"
+  },
+  "Cineraria":{
+    "name": "سینراریا (سینرر)"
+  },
+  "Cyclamen":{
+    "name": "سیکلامن"
+  },
+  "Cytisus":{
+    "name": "سیتی سوس"
+  },
+   "Ferns":{
+    "name": "سرخس"
+  },
+  "Lilium":{
+    "name": "سوسن"
+  },
+  "Passiflora":{
+    "name": "ساعتی"
+  },
+  "Rosa":{
+    "name": "سرخ (ورد،رز)"
+  },
+  "salpiglossis":{
+    "name": "سالپی گلوسیس"
+  },
+  "Sanchezia":{
+    "name": "سانکزیا"
+  },
+  "Sansevieria":{
+    "name": "سانس وی سریا"
+  },
+   "Saxifraga":{
+    "name": "ساکسی فراژ (ساکسی فراگا)"
+  },
+  "Selaginella":{
+    "name": "سلاگینلا"
+  },
+  "Sonerlia":{
+    "name": "سونریلا"
+  },
+  "Syngonium":{
+    "name": "سینگونیوم"
+  },
+  "Capsicum":{
+    "name": "فلفل زینتی"
+  },
+  "Fatsia":{
+    "name": "فاتسیا (آرالیا)"
+  },
+   "Fatshedera":{
+    "name": "فاتسهدرا"
+  },
+  "Felicia":{
+    "name": "فلیکیا"
+  },
+  "Ficus":{
+    "name": "فیکوس"
+  },
+  "Fittonia":{
+    "name": "فیتونیا"
+  },
+  "Fuchsia":{
+    "name": "فوکسیا"
+  },
+  "Philodendron":{
+    "name": "فیلودندرون"
+  },
+  "Caladium":{
+    "name": "کالادیوم"
+  },
+  "Calceolaria":{
+    "name": "کالسئولاریا"
+  },
+  "Calliandra":{
+    "name": "کالیندرا"
+  },
+  "Callistemon":{
+    "name": "کالیستمون"
+  },
+   "Camellia":{
+    "name": "کاملیا"
+  },
+  "Carex":{
+    "name": "کارکس"
+  },
+  "Catharanthus":{
+    "name": "کاتارانتوس"
+  },
+  "Celosia":{
+    "name": "کلوزیا"
+  },
+   "Cestrum":{
+    "name": "کستروم"
+  },
+  "Clerodendrum":{
+    "name": "کلرودندروم"
+  },
+  "Cleyera":{
+    "name": "کلیرا"
+  },
+  "Clianthus":{
+    "name": "کلیانتوس"
+  },
+  "Codiaeum":{
+    "name": "کروتون (کرچک هندی)"
+  },
+  "croton":{
+    "name": "کروتون (کرچک هندی)"
+  },
+  "Coccoloba":{
+    "name": "کوکولوبا"
+  },
+  "Columnea":{
+    "name": "کولومنئا"
+  },
+  "Crinum":{
+    "name": "کرینوم"
+  },
+   "Crossandra":{
+    "name": "کروساندرا"
+  },
+   "Cuphea":{
+    "name": "کوفئا"
+  },
+   "Dahlia":{
+    "name": "کوکب"
+  },
+   "Kalanchoe":{
+    "name": "کالانکوئه"
+  },
+   "Lachenalia":{
+    "name": "لاشنالیا"
+  },
+  "Lisianthus":{
+    "name": "لیزانتوس"
+  },
+  "Asparagus":{
+    "name": "مارچوبه (آسپاراگوس)"
+  },
+  "Dianthus":{
+    "name": "میخک"
+  },
+  "Euphorbia":{
+    "name": "مرجان"
+  },
+  "Manettia":{
+    "name": "مانتیا"
+  },
+  "Medinilla":{
+    "name": "مدینیلا"
+  },
+  "Mikania":{
+    "name": "میکانیا"
+  },  
+  "Mimosa":{
+    "name": "میموزا"
+  },
+  "Musa":{
+    "name": "موز"
+  },
+  "Monstera":{
+    "name": "مونسترا (برگ انجیری)"
+  },
+  "Myrtus":{
+    "name": "مورد"
+  },
+  "Cyperus":{
+    "name": "نخل مرداب"
+  },
+  "Vallota":{
+    "name": "والوتا"
+  },
+  "Viburnum":{
+    "name": "ویبورنوم (بداغ)"
+  },
+  "Haemanthus":{
+    "name": "همانتوس"
+  },
+  "Hebe":{
+    "name": "هبه"
+  },
+  "Heliconia":{
+    "name": "هلی کانیا"
+  },
+  "Heliotropium":{
+    "name": "هلیوتروپیوم"
+  },
+  "Helxine":{
+    "name": "هلکسین (اشک نوزاد)"
+  },
+  "Hemigraphis":{
+    "name": "همیگرافیس"
+  },
+  "Heptapleurum":{
+    "name": "هپاپلوروم"
+  },
+  "Hoya":{
+    "name": "هویا(مومی)"
+  },
+  "Hydrangea":{
+    "name": "هورتانزیا (هیدرانگئا، گل ادریسی)"
+  },
+  "Hypocyrta":{
+    "name": "هپوسیرتا"
+  },
+  "Hypoestes":{
+    "name": "هیپوستس"
+  },
+  "Jasminum":{
+    "name": "یاسمن"
+  },
+  "Yucca":{
+    "name": "یوکا"
+  },
+  "Schefflera Elegantissima":{
+    "name": "آرالیا دروغین"
+  },
+  "Adenium":{
+    "name": "آدنیوم"
+  },
+  "Fatsia Japonica":{
+    "name": "آرالیای برگ پهن ژاپنی"
+  },
+  "Aeschynanthus Japhrolepsis":{
+    "name": "آشیانتوس (خر دم)"
+  },
+  "African Daisy":{
+    "name": "آفتابگردان ارغوانی"
+  },
+  "Aglaonema":{
+    "name": "آگلونما"
+  },
+  "Aglaonema Silver Bay":{
+    "name": "آگلونما نقره ای"
+  },
+  "Aloe Vera":{
+    "name": "آلوئه ورا"
+  },
+  "Bromeliad":{
+    "name": "آناناسی (بروملید)"
+  },
+  "Anthurium":{
+    "name": "آنتوریوم"
+  },
+  "YAcer Palmatumucca":{
+    "name": "افرای ژاپنی"
+  },
+  "Hydrandea paniculata":{
+    "name": "اِدریسی پانیکولاتا(هورتانسیا)"
+  },
+  "Hydrangea Macrophylla":{
+    "name": "اِدریسی ماکروفیلا(هورتانسیا)"
+  },
+  "White orchids":{
+    "name": "ارکیده فالانوپسیس"
+  },
+  "Medinilla Magnifica":{
+    "name": "ارکیده فیلیپینی (خوشه آویز)"
+  },
+  "Peace Lily":{
+    "name": "اسپاتی فیلوم (گیاه صلح)"
+  },
+  "English Lavender":{
+    "name": "اسطوخدوس انگلیسی"
+  },
+  "French Lavender":{
+    "name": "اسطوخدوس فرانسوی"
+  },
+  "Aeschynanthus Mona Lisa":{
+    "name": "آشیانتوس (گیاه رژ لب)"
+  },
+  "Cactus Euphorbia":{
+    "name": "افوربیا درخت مدادی"
+  },
+  "Eucalyptus Gunnii":{
+    "name": "اکالیپتوس"
+  },
+  "Alocasia Amazonica":{
+    "name": "بابا آدم (آلوکازیا)"
+  },
+  "elephant ear plant":{
+    "name": "بابا آدم گوش فیلی (آلوکازیا)"
+  },
+  "Fargesia Bamboo":{
+  "name": "بامبو چتری"
+  },
+  "Variegated Monstera":{
+    "name": "برگ انجیری"
+  },
+  "Monstera Deliciosa":{
+    "name": "برگ انجیری مونسترا"
+  },
+  "Bay tree":{
+    "name": "برگ بو"
+  },
+  "Tradescantia Fluminensis":{
+    "name": "برگ بیدی"
+  },
+  "Aspidistra":{
+    "name": "برگ عبایی"
+  },
+  "Begonia Rex":{
+  "name": "بگونیا رکس"
+  },
+  "Bonsai Tree":{
+    "name": "بونسای"
+  },
+  "Hedera Helix":{
+    "name": "پاپیتال (عشقه)"
+  },
+  "Pachira":{
+    "name": "پاچیرا (درخت پول)"
+  },
+  "Maidenhair fern":{
+  "name": "پرسیاوشان"
+  },
+  "Bird of paradise":{
+    "name": "پرنده بهشتی (استرلیتزیا)"
+  },
+  "Satin Pothos":{
+    "name": "پوتوس ابلق"
+  },
+  "Devils ivy":{
+    "name": "پوتوس طلایی"
+  },
+  "Australian ivy":{
+    "name": "پیچک استرالیایی"
+  },
+  "Astrantia Major Red":{
+    "name": "پیچک سفید (شکوه صبح)"
+  },
+  "Celosia Caracas":{
+    "name": "تاج خروسی"
+  },
+  "Terrarium":{
+    "name": "تراریوم"
+  },
+  "Carex Evergold":{
+    "name": "جگن (چمن علفی)"
+  },
+  "Dracaena Lemon Lime":{
+    "name": "دراسنا برگ لیمویی"
+  },
+  "Dracaena fragrans":{
+    "name": "دراسنا بلالی"
+  }, 
+  "Dracaena Compacta":{
+  "name": "دراسنا کامپکت"
+  },
+  "Dracaena Lisa Cane":{
+    "name": "دراسنا"
+  },
+  "Dracaena Tarzan":{
+    "name": "دراسنا تارزان  "
+  },
+  "Olive tree":{
+    "name": "درخت زیتون"
+  },
+  "Lemon Tree":{
+    "name": "درخت لیمو"
+  },
+  "Dieffenbachia":{
+    "name": "دیفن باخیا"
+  },
+  "Heuchera":{
+    "name": "ریشه زاج آمریکایی (سرخ بر)"
+  },
+  "zamioculcas":{
+    "name": "زاموفیلیا"
+  },
+  "Succulent plant":{
+    "name": "ساکولنت ها"
+  },
+  "Zebra haworthia":{
+    "name": "ساکولنت هاوارتیا گورخری"
+  },
+  "Sansevieria Kirkii":{
+    "name": "سانسوریا"
+  },
+  "Snake Plant":{
+    "name": "سانسوریا (زبان مادر شوهر)"
+  },
+  "Sansevieria Bantel’s Sensation":{
+    "name": "سانسوریا بانتل"
+  },
+  "Sansevieria cylindrica":{
+    "name": "سانسوریا نیزه ای"
+  }
+}
